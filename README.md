@@ -16,3 +16,9 @@ new animal and similarly in all others.
 
 #In customer’s interface, the customer can adopt a pet or can give a pet for adoption. For both the
 things the php form has been made through which he can contact.
+
+
+Simple steps to run this project.
+Download this file and copy it to xampp-->htdocs (extract all zip files)
+Start xampp control panel and start mysql and apache
+Start phpmyadmin/localhost and import database petshop_management.sql (already there in my files)
