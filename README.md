@@ -4,11 +4,15 @@ It is a pet adoption website. The name of the website is ‘Happy paws’.
 It has two interfaces
 1. Owner can use
 2. Customer can use
-In owner’s interface, the owner has to login first to open the website. After successful login, the
+
+
+#In owner’s interface, 
+the owner has to login first to open the website. After successful login, the
 site will open in which the owner can look at all the records of available animals , birds , products
 and current customers
 In every page, the owner can add new details update details and can also delete the details
 For e.g, In animals page, it will show all the available animals, the owner can update delete or add
 new animal and similarly in all others.
-In customer’s interface, the customer can adopt a pet or can give a pet for adoption. For both the
+
+#In customer’s interface, the customer can adopt a pet or can give a pet for adoption. For both the
 things the php form has been made through which he can contact.
